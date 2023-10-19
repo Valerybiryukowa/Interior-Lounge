@@ -11,6 +11,7 @@
     line-height: 27px;
     color: #000000;
     min-width: 1150px;
+    
 }
 
 .page-main {
@@ -82,10 +83,30 @@
     margin: 60px auto 60px auto;
   }
 
+.wysiwyg-wrapper p {
+  line-height: 27px;
+}
+
+.wysiwyg-wrapper .different-color{
+  color: #9F7303;
+}
+
+.two-columns  {
+  white-space: nowrap;
+}
+
+.text {
+  white-space: normal;	
+	display: inline-block;
+	width: 540px;
+	vertical-align: top;
+}
+
   .reviews {
     background-color: #F4EFE2;
     padding-bottom: 60px;
     padding-top: 10px;
+    
   }
 
   .review {
